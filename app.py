@@ -15,13 +15,13 @@ import streamlit.components.v1 as components
 # 'embed_code'는 원드라이브/구글 드라이브에서 복사한 <iframe> 코드입니다.
 VIDEO_DATA = {
     "2025년 감사인 지정제도 온라인 설명회": {
-        "video_id": "training_004",
+        "video_id": "training_005",
         "embed_code": """
         <iframe src="https://www.youtube.com/embed/WKWNuuYyNJA?si=ge8ZShGl_-hkMGXR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" width="100%" height="500" allow="autoplay"></iframe>
         """
     },
     "2024년 K IFRS 질의회신 교육": {
-        "video_id": "training_005",
+        "video_id": "training_006",
         "embed_code": """
         <iframe src="https://www.youtube.com/embed/RBPrs9a5hbg?si=m8Kd0qDaG7TL2wkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" width="100%" height="500" allow="autoplay"></iframe>
         """
